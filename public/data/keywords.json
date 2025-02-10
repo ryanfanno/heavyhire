@@ -1,0 +1,236 @@
+[
+  {
+    "id": "excavator",
+    "term": "Excavator hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "bobcat",
+    "term": "Bobcat hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "bulldozer",
+    "term": "Bulldozer hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "digger",
+    "term": "Digger hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "mini-excavator",
+    "term": "Mini excavator hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "skid-steer-loader",
+    "term": "Skid steer loader hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "construction-equipment",
+    "term": "Construction equipment hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "heavy-machinery",
+    "term": "Heavy machinery hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "backhoe",
+    "term": "Backhoe hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "trencher",
+    "term": "Trencher hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "grader",
+    "term": "Grader hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "roller",
+    "term": "Roller hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "compactor",
+    "term": "Compactor hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "tipper-truck",
+    "term": "Tipper truck hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "crane",
+    "term": "Crane hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "telehandler",
+    "term": "Telehandler hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "plant",
+    "term": "Plant hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "construction-machinery",
+    "term": "Construction machinery hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "earthmoving-machinery",
+    "term": "Earthmoving machinery hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "civil-construction-equipment",
+    "term": "Civil construction equipment hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "forklift",
+    "term": "Forklift hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "earthworks-equipment",
+    "term": "Earthworks equipment hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "machinery",
+    "term": "Machinery hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "excavator-attachments",
+    "term": "Excavator attachments hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "mining-equipment",
+    "term": "Mining equipment hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "dump-truck",
+    "term": "Dump truck hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "track-loader",
+    "term": "Track loader hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "loader",
+    "term": "Loader hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "earthmoving-equipment",
+    "term": "Earthmoving equipment hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "all-terrain-vehicle",
+    "term": "All terrain vehicle hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "heavy-equipment",
+    "term": "Heavy equipment hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "road-construction-machinery",
+    "term": "Road construction machinery hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "tracked-excavator",
+    "term": "Tracked excavator hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "heavy-plant-machinery",
+    "term": "Heavy plant machinery hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "equipment-for-earthworks",
+    "term": "Equipment for earthworks hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "plant-machinery",
+    "term": "Plant machinery hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "bobcat-skid-steer",
+    "term": "Bobcat skid steer hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "mini-loader",
+    "term": "Mini loader hire",
+    "category": "Equipment",
+    "type": "Service"
+  },
+  {
+    "id": "concrete-breaker",
+    "term": "Concrete breaker hire",
+    "category": "Equipment",
+    "type": "Service"
+  }
+]

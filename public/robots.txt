@@ -1,0 +1,20 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://heavyhireaustralia.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Disallow paths
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+
+# Allow specific paths
+Allow: /cities
+Allow: /search/
+Allow: /about-us
+Allow: /contact

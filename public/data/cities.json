@@ -1,0 +1,542 @@
+[
+  {
+    "City": "Sydney",
+    "State": "New South Wales",
+    "Region": "NSW"
+  },
+  {
+    "City": "Newcastle",
+    "State": "New South Wales",
+    "Region": "NSW"
+  },
+  {
+    "City": "Central Coast",
+    "State": "New South Wales",
+    "Region": "NSW"
+  },
+  {
+    "City": "Wollongong",
+    "State": "New South Wales",
+    "Region": "NSW"
+  },
+  {
+    "City": "Maitland",
+    "State": "New South Wales",
+    "Region": "NSW"
+  },
+  {
+    "City": "Tweed Heads",
+    "State": "New South Wales",
+    "Region": "NSW"
+  },
+  {
+    "City": "Coffs Harbour",
+    "State": "New South Wales",
+    "Region": "NSW"
+  },
+  {
+    "City": "Wagga Wagga",
+    "State": "New South Wales",
+    "Region": "NSW"
+  },
+  {
+    "City": "Albury",
+    "State": "New South Wales",
+    "Region": "NSW"
+  },
+  {
+    "City": "Port Macquarie",
+    "State": "New South Wales",
+    "Region": "NSW"
+  },
+  {
+    "City": "Tamworth",
+    "State": "New South Wales",
+    "Region": "NSW"
+  },
+  {
+    "City": "Orange",
+    "State": "New South Wales",
+    "Region": "NSW"
+  },
+  {
+    "City": "Dubbo",
+    "State": "New South Wales",
+    "Region": "NSW"
+  },
+  {
+    "City": "Bathurst",
+    "State": "New South Wales",
+    "Region": "NSW"
+  },
+  {
+    "City": "Nowra",
+    "State": "New South Wales",
+    "Region": "NSW"
+  },
+  {
+    "City": "Lismore",
+    "State": "New South Wales",
+    "Region": "NSW"
+  },
+  {
+    "City": "Goulburn",
+    "State": "New South Wales",
+    "Region": "NSW"
+  },
+  {
+    "City": "Ballina",
+    "State": "New South Wales",
+    "Region": "NSW"
+  },
+  {
+    "City": "Armidale",
+    "State": "New South Wales",
+    "Region": "NSW"
+  },
+  {
+    "City": "Queanbeyan",
+    "State": "New South Wales",
+    "Region": "NSW"
+  },
+  {
+    "City": "Melbourne",
+    "State": "Victoria",
+    "Region": "VIC"
+  },
+  {
+    "City": "Geelong",
+    "State": "Victoria",
+    "Region": "VIC"
+  },
+  {
+    "City": "Ballarat",
+    "State": "Victoria",
+    "Region": "VIC"
+  },
+  {
+    "City": "Bendigo",
+    "State": "Victoria",
+    "Region": "VIC"
+  },
+  {
+    "City": "Shepparton",
+    "State": "Victoria",
+    "Region": "VIC"
+  },
+  {
+    "City": "Melton",
+    "State": "Victoria",
+    "Region": "VIC"
+  },
+  {
+    "City": "Mildura",
+    "State": "Victoria",
+    "Region": "VIC"
+  },
+  {
+    "City": "Wodonga",
+    "State": "Victoria",
+    "Region": "VIC"
+  },
+  {
+    "City": "Sunbury",
+    "State": "Victoria",
+    "Region": "VIC"
+  },
+  {
+    "City": "Warrnambool",
+    "State": "Victoria",
+    "Region": "VIC"
+  },
+  {
+    "City": "Traralgon",
+    "State": "Victoria",
+    "Region": "VIC"
+  },
+  {
+    "City": "Wangaratta",
+    "State": "Victoria",
+    "Region": "VIC"
+  },
+  {
+    "City": "Horsham",
+    "State": "Victoria",
+    "Region": "VIC"
+  },
+  {
+    "City": "Castlemaine",
+    "State": "Victoria",
+    "Region": "VIC"
+  },
+  {
+    "City": "Brisbane",
+    "State": "Queensland",
+    "Region": "QLD"
+  },
+  {
+    "City": "Gold Coast",
+    "State": "Queensland",
+    "Region": "QLD"
+  },
+  {
+    "City": "Sunshine Coast",
+    "State": "Queensland",
+    "Region": "QLD"
+  },
+  {
+    "City": "Townsville",
+    "State": "Queensland",
+    "Region": "QLD"
+  },
+  {
+    "City": "Cairns",
+    "State": "Queensland",
+    "Region": "QLD"
+  },
+  {
+    "City": "Toowoomba",
+    "State": "Queensland",
+    "Region": "QLD"
+  },
+  {
+    "City": "Mackay",
+    "State": "Queensland",
+    "Region": "QLD"
+  },
+  {
+    "City": "Rockhampton",
+    "State": "Queensland",
+    "Region": "QLD"
+  },
+  {
+    "City": "Bundaberg",
+    "State": "Queensland",
+    "Region": "QLD"
+  },
+  {
+    "City": "Hervey Bay",
+    "State": "Queensland",
+    "Region": "QLD"
+  },
+  {
+    "City": "Gladstone",
+    "State": "Queensland",
+    "Region": "QLD"
+  },
+  {
+    "City": "Maryborough",
+    "State": "Queensland",
+    "Region": "QLD"
+  },
+  {
+    "City": "Adelaide",
+    "State": "South Australia",
+    "Region": "SA"
+  },
+  {
+    "City": "Mount Gambier",
+    "State": "South Australia",
+    "Region": "SA"
+  },
+  {
+    "City": "Whyalla",
+    "State": "South Australia",
+    "Region": "SA"
+  },
+  {
+    "City": "Port Augusta",
+    "State": "South Australia",
+    "Region": "SA"
+  },
+  {
+    "City": "Murray Bridge",
+    "State": "South Australia",
+    "Region": "SA"
+  },
+  {
+    "City": "Perth",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Mandurah",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Bunbury",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Kalgoorlie-Boulder",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Geraldton",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Albany",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Karratha",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Broome",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Port Hedland",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Esperance",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Fremantle",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Dunsborough",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Margaret River",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Northam",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Joondalup",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Rockingham",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Busselton",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "South Hedland",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Collie",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Wongan Hills",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Manjimup",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Narrogin",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Laverton",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Yanchep",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Kununurra",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Newman",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Carnarvon",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Pinjarra",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Katanning",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Derby",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Denmark",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Harvey",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Jurien Bay",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Exmouth",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Dongara",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Bridgetown",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Donnybrook",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Gingin",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Halls Creek",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Kalbarri",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Kojonup",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Lake Grace",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Meekatharra",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Moora",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Mount Barker",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Nannup",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Pemberton",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Quairading",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Ravensthorpe",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Tom Price",
+    "State": "Western Australia",
+    "Region": "WA"
+  },
+  {
+    "City": "Hobart",
+    "State": "Tasmania",
+    "Region": "TAS"
+  },
+  {
+    "City": "Launceston",
+    "State": "Tasmania",
+    "Region": "TAS"
+  },
+  {
+    "City": "Devonport",
+    "State": "Tasmania",
+    "Region": "TAS"
+  },
+  {
+    "City": "Burnie",
+    "State": "Tasmania",
+    "Region": "TAS"
+  },
+  {
+    "City": "Canberra",
+    "State": "Australian Capital Territory",
+    "Region": "ACT"
+  },
+  {
+    "City": "Darwin",
+    "State": "Northern Territory",
+    "Region": "NT"
+  },
+  {
+    "City": "Alice Springs",
+    "State": "Northern Territory",
+    "Region": "NT"
+  }
+]
