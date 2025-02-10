@@ -23,14 +23,12 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <head>
-        <Script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5075448607477357"
-          crossOrigin="anonymous"
-          strategy="afterInteractive"
-        />
-      </head>
+      <Script
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5075448607477357"
+        crossOrigin="anonymous"
+        strategy="afterInteractive"
+      />
       <body>
         {children}
       </body>
