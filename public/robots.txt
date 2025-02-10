@@ -2,6 +2,16 @@
 User-agent: *
 Allow: /
 
+User-agent: Googlebot
+Disallow:
+
+User-agent: AdsBot-Google
+Disallow:
+
+User-agent: Googlebot-Image
+Disallow:
+
+
 # Sitemaps
 Sitemap: https://heavyhireaustralia.com/sitemap.xml
 
