@@ -16,6 +16,7 @@ async function generateSitemapAndRobots() {
   ];
 
   const cityPaths = cities.map(city => `/cities/${formatCityName(city.City).toLowerCase()}`);
+  const locationPaths = cities.map(city => `/location/${formatCityName(city.City).toLowerCase()}`);
 
   const searchPaths = cities.flatMap(city => 
     keywords.map(keyword => 
@@ -23,7 +24,7 @@ async function generateSitemapAndRobots() {
     )
   );
 
-  const allPaths = [...staticPaths, ...cityPaths, ...searchPaths];
+  const allPaths = [...staticPaths, ...cityPaths, ...locationPaths, ...searchPaths];
 
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
