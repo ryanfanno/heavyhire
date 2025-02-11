@@ -22,6 +22,10 @@ export interface SearchResult {
   businessStatus?: string;
   phone?: string;
   website?: string;
+  coordinates?: {
+    lat: number;
+    lng: number;
+  };
 }
 
 export interface SearchParams {

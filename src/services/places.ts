@@ -4,6 +4,7 @@ import { formatSearchTerm } from '@/utils/data';
 import { connectToDatabase } from '@/utils/db';
 import PlaceCache from '@/models/PlaceCache';
 import { CITY_COORDINATES } from '@/utils/cityCoordinates';
+import { fetchFromGooglePlaces } from '@/utils/places';
 
 const GOOGLE_API_KEY = process.env.NEXT_PUBLIC_GOOGLE_API_KEY;
 const PLACES_API_URL = 'https://places.googleapis.com/v1/places:searchText';
@@ -125,21 +126,49 @@ export async function searchPlaces({ city, keyword }: SearchPlacesParams): Promi
 
     if (cachedResults) {
       console.log('Serving results from cache');
-      return cachedResults.results;
+      return cachedResults.results.map((result: any) => ({
+        name: result.name,
+        address: result.address,
+        rating: result.rating,
+        userRatingsTotal: result.userRatingsTotal,
+        types: result.types,
+        businessStatus: result.businessStatus,
+        phone: result.phone,
+        website: result.website,
+        coordinates: result.geometry?.location ? {
+          lat: Number(result.geometry.location.lat),
+          lng: Number(result.geometry.location.lng)
+        } : undefined
+      }));
     }
 
     console.log('Fetching fresh results from Google Places API');
     const results = await fetchFromGooglePlaces(searchQuery, city);
 
-    if (results.length > 0) {
+    const resultsWithCoordinates = results.map(place => ({
+      name: place.name,
+      address: place.address,
+      rating: place.rating,
+      userRatingsTotal: place.userRatingsTotal,
+      types: place.types,
+      businessStatus: place.businessStatus,
+      phone: place.phone,
+      website: place.website,
+      coordinates: place.geometry?.location ? {
+        lat: Number(place.geometry.location.lat),
+        lng: Number(place.geometry.location.lng)
+      } : undefined
+    }));
+
+    if (resultsWithCoordinates.length > 0) {
       await PlaceCache.create({
         searchQuery,
-        results,
+        results: resultsWithCoordinates,
         createdAt: new Date()
       });
     }
 
-    return results;
+    return resultsWithCoordinates;
   } catch (error) {
     console.error('Error in searchPlaces:', error);
     return [];
