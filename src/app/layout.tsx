@@ -3,9 +3,12 @@ import Script from "next/script";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Heavy Hire Australia | Equipment Hire Directory",
-  description: "Find and compare equipment hire services across Australia",
   metadataBase: new URL('https://heavyhireaustralia.com'),
+  title: {
+    default: "Heavy Hire Australia | Equipment Hire Directory",
+    template: "%s | Heavy Hire Australia"
+  },
+  description: "Find and compare equipment hire services across Australia",
   openGraph: {
     title: 'Heavy Hire Australia',
     description: 'Find and compare equipment hire services across Australia',
